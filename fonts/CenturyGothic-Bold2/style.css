@@ -1,0 +1,11 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: 'CenturyGothic-Bold';
+  src: url('./fonts/CenturyGothicBold1.eot'); /* IE9 Compat Modes */
+  src: url('./fonts/CenturyGothicBold1.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+
+    url('./fonts/CenturyGothicBold1.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/CenturyGothicBold1.ttf') format('truetype'), /* Safari, Android, iOS */
+  font-weight: normal;
+  font-style: normal;
+}
